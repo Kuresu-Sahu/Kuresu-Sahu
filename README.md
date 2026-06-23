@@ -22,7 +22,7 @@
 
 🎯 Goal: Secure a Software Developer role and continuously improve my skills
 
-📫 Email: your-email@example.com
+📫 Email: kuresusahu18@gmamil.com
 
 ---
 
@@ -102,9 +102,9 @@ CRUD Application using Node.js, Express.js and MySQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://portfolio-fullstack-gold.vercel.app/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kuresu-Sahu)
+[![GitHub](https://github.com/Kuresu-Sahu)
 
 ---
 
