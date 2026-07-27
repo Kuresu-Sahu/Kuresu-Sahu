@@ -59,18 +59,14 @@
 ### 💬 VibeChat
 Real-Time Chat Application using MERN Stack and Socket.io
 
-🔗 https://github.com/Kuresu-Sahu/VibeChat
+🔗 https://vibe-chat-rho.vercel.app/
 
 ### 📁 ShareMyFile
-File Sharing Website with Email Sharing Functionality
+🔗 https://sharemyfile.onrender.com/
 
 ### 🤖 Quality-Based Web Service Classification
 Machine Learning project using CatBoost and Semi-Supervised Learning
-
 🔗 https://github.com/Kuresu-Sahu/Quality-Web-Service-Classification
-
-### 📋 Student Management System
-CRUD Application using Node.js, Express.js and MySQL
 
 ---
 
