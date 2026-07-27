@@ -85,11 +85,13 @@ Machine Learning project using CatBoost and Semi-Supervised Learning
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/kuresu-sahu/)
+## 🌐 Connect with Me
 
-[![Portfolio](https://portfolio-fullstack-gold.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuresu%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuresu-sahu/)
 
-[![GitHub](https://github.com/Kuresu-Sahu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fullstack-gold.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kuresu--Sahu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuresu-Sahu)
 
 ---
 
