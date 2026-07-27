@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-🎓 Final Year B.Tech Computer Science Student
+🎓 B.Tech Computer Science Student graduated in 2026.
 
-💻 Passionate about Full Stack Web Development and Java Programming
+💻 Passionate about Full Stack Web Development and Java Programming.
 
 🌱 Currently learning **Java Full Stack Development, DSA, Spring Boot, SQL**
 
