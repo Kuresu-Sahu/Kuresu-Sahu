@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuresu Sahu</h1>
-<h3 align="center">Final Year B.Tech CSE Student | Java Full Stack Developer | MERN Stack Developer</h3>
+<h3 align="center">B.Tech CSE Graduate | Java Full Stack Developer | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuresu-Sahu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -84,8 +84,6 @@ Machine Learning project using CatBoost and Semi-Supervised Learning
 ---
 
 ## 🌐 Connect With Me
-
-## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuresu%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuresu-sahu/)
 
